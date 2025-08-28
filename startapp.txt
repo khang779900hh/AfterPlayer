@@ -1,4 +1,5 @@
 ##AfterPlayer v0.1 
+//KhangAS (Rixis™)
 (This app not compete)
 ─────────────────────────
 /main/obb/com.after.rixis.obb
