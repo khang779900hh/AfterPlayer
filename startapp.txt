@@ -1,2 +1,7 @@
 ##AfterPlayer v0.1 
 (This app not compete)
+/main/obb/com.after.rixis.obb
+/private/premium/user.json
+/private/premium/renewal_schedule.json
+/main/res/cooperation_logo.png
+/main/res/intro_cooperation.mp4
